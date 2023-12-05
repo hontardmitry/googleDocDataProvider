@@ -7,7 +7,7 @@ import com.google.api.services.sheets.v4.Sheets;
 import com.google.api.services.sheets.v4.model.Sheet;
 import com.google.api.services.sheets.v4.model.Spreadsheet;
 import com.google.api.services.sheets.v4.model.ValueRange;
-import google.doc.data.provider.GoogleDocsDataProvider;
+import data.provider.GoogleDocsDataProvider;
 import org.jbehave.core.model.ExamplesTable;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
